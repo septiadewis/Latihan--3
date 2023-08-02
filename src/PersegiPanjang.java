@@ -1,4 +1,5 @@
 package geometri;
+
 public class PersegiPanjang {
     private double panjang;
     private double lebar;
